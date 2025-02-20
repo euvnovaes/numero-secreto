@@ -30,7 +30,7 @@ Abaixo estão os principais arquivos e suas funções:
 
 ## Layout 🖼️
 
-Aqui está um espaço reservado para adicionar uma imagem do layout da página:
+Aqui está uma pré-visualização do layout do projeto:
 
 ![image](https://github.com/user-attachments/assets/7601197b-a998-4b5c-87ba-0427fa24cbc5)
 
